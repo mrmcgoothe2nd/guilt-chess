@@ -4,7 +4,7 @@ Chess with a conscience. Capture a piece and yours turns guilty: it can still mo
 
 Play with a friend on two phones, or pass one phone back and forth. No accounts, no install, no server to run.
 
-**Play it:** `https://YOUR-USERNAME.github.io/guilt-chess/`
+**Play it:** `https://mrmcgoothe2nd.github.io/guilt-chess/`
 
 ## How to play
 
